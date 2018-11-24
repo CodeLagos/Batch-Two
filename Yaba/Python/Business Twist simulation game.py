@@ -77,4 +77,5 @@ print ('Contact developer with info below.')
 #Developer info
 print ("--------Developer Info--------")
 print ('For support, enquiry or sponsorship:')
-print ('Call Ahmed: 09071235558')
+print ('Call Ahmed Hassan: 09071235558')
+print ('Visit website: http://ahmedhassan.com.ng')
